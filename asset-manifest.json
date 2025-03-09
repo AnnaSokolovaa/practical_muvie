@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practical_muvie/static/css/main.b9fc46cd.css",
+    "main.js": "/practical_muvie/static/js/main.42e6d83e.js",
+    "index.html": "/practical_muvie/index.html",
+    "main.b9fc46cd.css.map": "/practical_muvie/static/css/main.b9fc46cd.css.map",
+    "main.42e6d83e.js.map": "/practical_muvie/static/js/main.42e6d83e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9fc46cd.css",
+    "static/js/main.42e6d83e.js"
+  ]
+}
